@@ -1,0 +1,42 @@
+﻿match_events,,,,,,,
+event_id,match_id,team_id,player_id,event_type,minute,field_area,outcome
+1,1,1,5,Pass,8,Middle Third,Completed
+2,1,2,14,Turnover,14,Middle Third,Possession Lost
+3,1,1,7,Shot,23,Penalty Area,Goal
+4,1,2,15,Shot,31,Attacking Third,Blocked
+5,1,2,16,Shot,39,Penalty Area,Goal
+6,1,1,6,Foul,52,Middle Third,Committed
+7,1,1,8,Shot,68,Penalty Area,Goal
+8,1,2,11,Card,76,Defensive Third,Yellow
+9,2,3,21,Pass,7,Middle Third,Completed
+10,2,1,6,Turnover,16,Middle Third,Possession Won
+11,2,3,23,Shot,28,Penalty Area,Goal
+12,2,1,7,Shot,35,Attacking Third,Off Target
+13,2,3,18,Foul,47,Defensive Third,Committed
+14,2,1,8,Shot,61,Penalty Area,Goal
+15,2,1,5,Pass,72,Attacking Third,Incomplete
+16,2,3,19,Card,84,Middle Third,Yellow
+17,3,1,5,Pass,5,Middle Third,Completed
+18,3,1,7,Shot,18,Penalty Area,Goal
+19,3,4,30,Turnover,24,Middle Third,Possession Lost
+20,3,1,8,Shot,37,Penalty Area,Goal
+21,3,4,27,Foul,49,Defensive Third,Committed
+22,3,1,6,Pass,58,Attacking Third,Completed
+23,3,1,7,Shot,71,Penalty Area,Goal
+24,3,4,28,Card,82,Defensive Third,Yellow
+25,4,5,37,Pass,9,Middle Third,Completed
+26,4,1,6,Turnover,17,Middle Third,Possession Won
+27,4,1,7,Shot,29,Penalty Area,Goal
+28,4,5,39,Shot,41,Attacking Third,Blocked
+29,4,5,35,Foul,50,Middle Third,Committed
+30,4,1,5,Pass,63,Attacking Third,Completed
+31,4,1,8,Shot,74,Penalty Area,Goal
+32,4,5,36,Card,86,Defensive Third,Yellow
+33,5,1,6,Pass,6,Middle Third,Completed
+34,5,6,47,Shot,15,Penalty Area,Goal
+35,5,1,7,Shot,26,Penalty Area,Goal
+36,5,6,45,Turnover,33,Middle Third,Possession Lost
+37,5,6,48,Shot,48,Penalty Area,Goal
+38,5,1,3,Foul,57,Defensive Third,Committed
+39,5,1,8,Shot,69,Penalty Area,Goal
+40,5,6,43,Card,81,Middle Third,Yellow
